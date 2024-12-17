@@ -1,0 +1,67 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle / Maven
+.gradle/
+target/
+*.war
+*.jar
+
+# IDE 설정 파일
+.idea/
+*.class
+
+# Logs
+*.log
+logs/
+
+### VS Code ###
+.vscode/
+
+# 환경 변수 및 설정 파일
+application.properties
+application.yml
+.env
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# GitHub Actions
+!.github/workflows/
+
+# 기타
+*.tmp
+*.lock
