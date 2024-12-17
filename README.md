@@ -22,12 +22,12 @@
 ---
 
 ## 3. 폴더 구조
-📁 프로젝트명/ 
-            ├── 📂 backend/ # 백엔드 코드 (Spring Boot) 
-            ├── 📂 frontend/ # 프론트엔드 코드 (Vue.js/Nuxt.js) 
-            ├── 📂 docs/ # 프로젝트 문서 및 기획안 
-            ├── 📄 README.md # 프로젝트 설명 파일 
-            └── 📄 .gitignore # Git에서 제외할 파일 목록
+- 📁 프로젝트명/ 
+  - ├── 📂 backend/ # 백엔드 코드 (Spring Boot)  
+  - ├── 📂 frontend/ # 프론트엔드 코드 (Vue.js/Nuxt.js)  
+  - ├── 📂 docs/ # 프로젝트 문서 및 기획안  
+  - ├── 📄 README.md # 프로젝트 설명 파일  
+  - └── 📄 .gitignore # Git에서 제외할 파일 목록
 
 ---
 
